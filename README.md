@@ -1,2 +1,2 @@
-# conceptos_fundamentales
-Los conceptos fundamentales del análisis y la ciencia de datos. Proyecto personal. Ideas reunidas sin un orden en particular. Orientados a responder preguntas en entrevistas de trabajo. Obra de referencia.
+# Conceptos fundamentales del análisis y la ciencia de datos enfocado a las entrevistas de trabajo 📊
+En esta agrupación de conceptos clave sobre el análisis y la ciencia de datos voy a escribir definiciones y responder preguntas. Acompañaré el código de explicaciones en caso de ser necesario. Este es un proyecto personal que tiene como objetivo mantener conceptos fundamentales siempre presentes. No tiene ningún tipo de orden. Este archivo se puede utilizar como una obra de consulta. Está orientado a las entrevistas de trabajo.
